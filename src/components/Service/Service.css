@@ -1,0 +1,13 @@
+.details{
+    width: 130px;
+    height: 40px;
+    border-radius: 25px;
+    background-color: white;
+    color: rgb(124, 25, 8);
+    font-weight: bold;
+    border: 2px solid tomato;
+}
+.details:hover{
+    background-color: rgb(80, 14, 3);
+    color: white;
+}

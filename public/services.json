@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "John Carry",
+    "price": 79,
+    "time": 8,
+    "title": "Yoga Class",
+    "img": "https://image.freepik.com/free-photo/caucasian-young-sporty-couple-workout-gym-together_155003-40305.jpg",
+    "dis": "However, yoga does count as a strengthening exercise, and at least 2 sessions a week will help you meet the guidelines on muscle-strengthening activities."
+  },
+  {
+    "id": 2,
+    "name": "Williamson",
+    "price": 88,
+    "time": 8,
+    "title": "Running Class",
+    "img": "https://image.freepik.com/free-photo/young-muscular-athlete-practicing-gym-with-weights_155003-35492.jpg",
+    "dis": "Running and strength training go hand in hand. Making time to hit the weights can help decrease your risk of injury and build muscle to improve your performance on the roads or trails. "
+  },
+  {
+    "id": 3,
+    "name": "Alison",
+    "price": 66,
+    "time": 7,
+    "title": "Weight Lifting Class",
+    "img": "https://img.freepik.com/free-photo/male-athlete-training-hard-gym-fitness-healthy-life-concept_155003-26303.jpg?size=338&ext=jpg",
+    "dis": "Did you know the modern dumbbell was invented in the 17th century? And yet, despite the incredible technological advancements made by humankind since our ancestors first benched their bodyweight, there remains no worthy substitute for a simple set of ’bells."
+  },
+  {
+    "id": 4,
+    "name": "Raybak ",
+    "price": 99,
+    "time": 7,
+    "title": "Aerobics/Zumba Class",
+    "img": "https://img.freepik.com/free-photo/best-self-young-caucasian-bodybuilder-training-studio-background-neon-light-muscular-male-model-with-weight-concept-sport-bodybuilding-healthy-lifestyle-motion-action_155003-35390.jpg?size=338&ext=jpg",
+    "dis": "Energize your mornings and come train and workout with our personal trainers at Mutants Gym. Join our Aerobics Yoga and Zumba lessons and have fun while exercising.."
+  },
+  {
+    "id": 5,
+    "name": "John Abraham",
+    "price": 69,
+    "time": 8,
+    "title": "Crossfit Training Class",
+    "img": "https://img.freepik.com/free-photo/young-muscular-caucasian-athlete-practicing-gym-with-weights_155003-32068.jpg?size=338&ext=jpg",
+    "dis": "Train with the best of the best in an intense workout session under the expert guidance of our personal trainers only at Mutants Gym."
+  },
+  {
+    "id": 6,
+    "name": "Selena Gomez",
+    "price": 114,
+    "time": 8,
+    "title": "Cardio Training Class",
+    "img": "https://img.freepik.com/free-photo/young-sporty-couple-training-gym-together_155003-41196.jpg?size=338&ext=jpg",
+    "dis": "Work on your abs and core with state-of-the-art equipments specially brought to you by the best gym in Patna, Mutants."
+  }
+]

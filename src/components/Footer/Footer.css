@@ -1,0 +1,24 @@
+.footer-menu {
+    list-style: none;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    
+  }
+  .menu{
+      margin-bottom: 20px;
+  }
+  .menu:hover {
+    color: red;
+  }
+  .footer-input {
+    padding: 8px;
+    border: none;
+    outline: none;
+    background-color:wheat;
+  }
+  .footer-container {
+    background-color: #060131;
+    padding: 20px;
+    color: rgb(216, 209, 209);
+  }

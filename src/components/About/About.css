@@ -1,0 +1,31 @@
+.learn{
+    margin-top:80px;
+  
+}
+.about-img{
+    border-radius: 10px;
+}
+.learn button{
+        width:200px;
+        color:white;
+        height:50px;
+        border-radius: 30px;
+        padding: 10px;
+        background-color: rgb(116, 20, 4);
+        color:white;
+        border: 3px solid white;
+    
+};
+
+.learn button:hover{
+    background-color: white;
+    color: rgb(102, 18, 4);
+}
+.about-left{
+    margin-bottom: 10px;
+}
+.about-footer{
+    height: 350px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}

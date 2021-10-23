@@ -1,0 +1,21 @@
+nav a{
+    text-decoration: none;
+    margin-left: 40px;
+    font-weight: bold;
+}
+.logo-img{
+    width: 150px;
+    height: 80px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+.text-head{
+    color: aliceblue;
+    font-weight: bold;
+}
+.text-head:hover{
+color: goldenrod;
+}
+.nav-item:hover{
+    color: white;
+}

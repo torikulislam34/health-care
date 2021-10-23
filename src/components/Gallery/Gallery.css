@@ -1,0 +1,22 @@
+.gallary-btn button {
+  width: 90px;
+  height: 40px;
+  border-radius: 25px;
+  background-color: white;
+  color: rgb(83, 16, 4);
+  font-weight: bold;
+  border: 2px solid tomato;
+}
+
+.gallary-btn button:hover {
+  background-color: rgb(77, 14, 2);
+  color: white;
+}
+
+/* .gallary img {
+}
+.gallary img:hover {
+  transform: scale(2, 2);
+  transition-property: 0px;
+  transition-duration: 5s;
+} */
